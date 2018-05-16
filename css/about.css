@@ -1,0 +1,44 @@
+.header{
+	height: 40px;
+	width: 100%;
+	background-color:black;
+}
+.header em{
+	color: white;
+	font-size:1.4rem;
+}
+body {
+  background-color:#121526; 
+  color: white;
+  padding: 0;
+  margin: 0;
+  font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+  font-weight: normal;
+  font-style: normal;
+  line-height: 1;
+  position: relative;
+  cursor: default;
+
+}
+body p{
+	margin-top: 350px;
+}
+.footer{
+	height: 40px;
+	width: 100%;
+	background-color:#252B52;
+	margin-top: 150px;
+}
+.footer em{
+	color: white;
+	font-size:1.4rem;
+
+}
+.images{
+	height: 1500px;
+	width: 1500px;
+	display: inline-block;
+	position: fixed;
+	margin-left: -100px;
+	margin-top: 50px;
+}

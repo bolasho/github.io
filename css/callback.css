@@ -1,0 +1,41 @@
+body {
+  background-color: #666699;
+  color: #000;
+  padding: 0;
+  margin: 0;
+  font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+  font-weight: normal;
+  font-style: normal;
+  line-height: 1;
+  position: relative;
+  cursor: default;
+}
+.header{
+	height: 40px;
+	width: 100%;
+	background-color:black;
+}
+.header em{
+	color: white;
+	font-size:1.4rem;
+}
+.body{
+	 font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+	 color:#0000ff;
+	 margin-top: 30px;
+}
+.footer{
+	height: 1200px;
+	width: 1200px;
+	display: inline-block;
+	position: fixed;
+	margin-top: 59px;
+}
+.footer em{
+	 z-index: 100;
+    position: absolute;
+    color: white;
+    font-size:1.4rem;
+    
+    
+}
